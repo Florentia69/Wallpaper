@@ -21,7 +21,7 @@
   ],
   "HOME": [
     {
-      "keyword_home_fragment": "Sad"
+      "keyword_home_fragment": "Sadness"
     }
   ],
   "DATA": [
@@ -72,6 +72,10 @@
     {
       "title_search": "Sad Smile",
       "image_url": "https://iphoneswallpapers.com/wp-content/uploads/2021/07/Sad-Smile-iPhone-Wallpaper.jpg"
+    },
+    {
+      "title_search": "Sadness Loneliness",
+      "image_url": "https://alonewolfandmentalwellbeing.files.wordpress.com/2017/10/a-lonely-2.jpg"
     }
   ]
 }
