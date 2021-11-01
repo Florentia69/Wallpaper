@@ -1,0 +1,65 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "",
+      "main_ads_intertitial": "",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "HOME": [
+    {
+      "keyword_home_fragment": "Sad"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "Sad Anime",
+      "image_url": "https://i.pinimg.com/originals/a3/5e/30/a35e3090e6f4f6107117abf5f72c81c7.jpg"
+    },
+    {
+      "title_search": "Sad Boy",
+      "image_url": "https://wallpaperaccess.com/full/368233.jpg"
+    },
+    {
+      "title_search": "Sad Love",
+      "image_url": "https://www.nawpic.com/media/2020/sad-love-nawpic.jpg"
+    },
+    {
+      "title_search": "Sadnes",
+      "image_url": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_166144370_970647970450031_49867.jpg"
+    },
+    {
+      "title_search": "Triste",
+      "image_url": "https://i.pinimg.com/originals/a2/58/a5/a258a517d716357ab165adfb2f4aa980.jpg"
+    },
+    {
+      "title_search": "Sad Wallpaper",
+      "image_url": "https://image.winudf.com/v2/image1/Y29tLndhbGxpZS5zYWQud2FsbHBhcGVyc19zY3JlZW5fNl8xNTY3NDY1OTIxXzA5Nw/screen-6.jpg?fakeurl=1&type=.jpg"
+    },
+    {
+      "title_search": "Sad Quotes",
+      "image_url": "https://wisdomquotes.com/wp-content/uploads/sad-quotes-dont-desire-happiness-because-it-creates-only-unhappiness-and-nothing-else-osho-wisdom-quotes-1200.jpg"
+    },
+    {
+      "title_search": "Very Sad",
+      "image_url": "https://pbs.twimg.com/profile_images/584510037344833537/w_y-vyvK_400x400.jpg"
+    },
+    {
+      "title_search": "Sad Girl",
+      "image_url": "https://wallpaperaccess.com/full/1940837.jpg"
+    }
+  ]
+}
